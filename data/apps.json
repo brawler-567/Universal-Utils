@@ -5,10 +5,7 @@
     "category": "Утилиты",
     "description": "Программа для тестирования компьютера",
     "image": "./assets/images/1a4 77ExheAAAAAElFTkSuQmCC.jpg"
-  }
-]
-
-[
+  },
   {
     "name": "memreduct",
     "slug": "memreduct",
